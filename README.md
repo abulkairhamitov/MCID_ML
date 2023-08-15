@@ -16,9 +16,9 @@ e-mail*:* abulkairhamitov@gmail.com; eyshukeylo@gmail.com
 
 **Abstract.** The use of machine learning methods to predict the minimum clinically important difference that has occurred in the patient's condition from the moment of the operation to the completion of the rehabilitation process allows to correct treatment tactics in the future and reduce the financial costs of medical care. A data set based on information from The Arthroplasty Clinical Outcomes Registry, Australia and including data on elective total hip or total knee replacement surgery was used in the research. Models based on classical machine learning algorithms and models based on neural networks: MLP, TabNet and HyperTab are built to determine the achievability of minimum clinically important difference in the patient's condition after arthroplasty. Logistic regression and support vector machine showed the best arithmetic mean AUC - from 0.68 to 0.78 depending on the dataset. The lag of this value by 0.01-0.02 was demonstrated by the models of the random forest and the naive Bayesian classifier. TabNet tabular learning and HyperTab's hypernet approach did not achieve a high arithmetic mean AUC. Thus, the use of logistic regression and support vector machine analysis is recommended to predict the achievability of the minimal clinically important difference in the patient's condition after total joint replacement.
 
-**Ключевые слова:**  анкета Oxford  Knee  Score, анкета Oxford  Knee Score, минимально клинически значимое изменение, машинное обучение, нейронные сети, гиперпараметры
+**Ключевые слова:**  анкета Oxford  Knee  Score, анкета Oxford Hip Score, минимально клинически значимое изменение, машинное обучение, нейронные сети, гиперпараметры
 
-**Keywords:** Oxford Knee Score, Oxford Knee Score, minimum clinically important difference, machine learning, neural networks, hyperparameters
+**Keywords:** Oxford Knee Score, Oxford Hip Score, minimum clinically important difference, machine learning, neural networks, hyperparameters
 
 **Введение**
 
